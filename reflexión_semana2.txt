@@ -1,0 +1,8 @@
+Para un programador es fundamental saber usar las terminales 
+por rapidez y eficiencia, nos ahorra tiempo, nos permite tener 
+organización de la estructura del proyecto y una visión directa 
+de los archivos, gráficos o carpetas creadas dentro del mismo.
+Para el uso de nuevas formas de programar es importante conocer las
+funciones de cada uno de los comandos que existe y verificar si estan 
+dentro del sistema operativo, es una forma muy útil de organizar nuestras
+tareas sin escribir comandos largos y nos ayuda a gestionar permisos.
